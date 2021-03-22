@@ -16,7 +16,8 @@ jobs:
 
       - name: Build PHP
         uses: docker://php:7.4
-
+        run: index.php
+        
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:

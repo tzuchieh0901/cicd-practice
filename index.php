@@ -1,5 +1,6 @@
 <?php 
-echo 'Hello CI/CD!';
-echo '  hello';
-echo 'ccc';
+echo 'Hello CI/CD!'
+
+
+cdcd
 ?>
